@@ -16,3 +16,5 @@ Following Angela Yu's "100 Days of Code: Python Pro Bootcamp".
 - 📚 Learned: `print()`, `input()`, variables, string concatenation
 - 🛠️ Built: Band Name Generator
 - ⏱️ Time: ~1h
+
+### Day 2 — May 1, 2026 (skipped April 30 — fell asleep after work)
