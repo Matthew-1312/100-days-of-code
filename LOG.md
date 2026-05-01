@@ -19,6 +19,6 @@ Following Angela Yu's "100 Days of Code: Python Pro Bootcamp".
 
 ### Day 2 — May 1, 2026 (skipped April 29-30 — work + rest)
 - ✅ Completed Day 2 of Angela Yu's course
-- 📚 Learned: data types, type conversion, f-strings, round()
+- 📚 Learned: data types, type conversion, f-strings, 'round()'
 - 🛠️ Built: Tip Calculator
 - ⏱️ Time: ~1.5h
