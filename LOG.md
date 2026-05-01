@@ -1,6 +1,6 @@
 # 100 Days of Code — Python & AI Automation
 
-![Status](https://img.shields.io/badge/Day-1%2F100-blue)
+![Status](https://img.shields.io/badge/Day-2%2F100-blue)
 
 Daily log of my journey from IT support to AI Automation specialist.  
 Following Angela Yu's "100 Days of Code: Python Pro Bootcamp".
@@ -18,3 +18,9 @@ Following Angela Yu's "100 Days of Code: Python Pro Bootcamp".
 - ⏱️ Time: ~1h
 
 ### Day 2 — May 1, 2026 (skipped April 30 — fell asleep after work)
+
+### Day 3 — May 1, 2026
+- ✅ Completed Day 2 of Angela Yu's course
+- 📚 Learned: data types, type conversion, f-strings, round()
+- 🛠️ Built: Tip Calculator
+- ⏱️ Time: ~1.5h
