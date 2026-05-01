@@ -17,9 +17,7 @@ Following Angela Yu's "100 Days of Code: Python Pro Bootcamp".
 - 🛠️ Built: Band Name Generator
 - ⏱️ Time: ~1h
 
-### Day 2 — May 1, 2026 (skipped April 30 — fell asleep after work)
-
-### Day 3 — May 1, 2026
+### Day 2 — May 1, 2026 (skipped April 29-30 — work + rest)
 - ✅ Completed Day 2 of Angela Yu's course
 - 📚 Learned: data types, type conversion, f-strings, round()
 - 🛠️ Built: Tip Calculator
