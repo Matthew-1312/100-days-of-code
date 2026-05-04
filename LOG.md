@@ -1,6 +1,6 @@
 # 100 Days of Code — Python & AI Automation
 
-![Status](https://img.shields.io/badge/Day-2%2F100-blue)
+![Status](https://img.shields.io/badge/Day-3%2F100-blue)
 
 Daily log of my journey from IT support to AI Automation specialist.  
 Following Angela Yu's "100 Days of Code: Python Pro Bootcamp".
@@ -22,3 +22,9 @@ Following Angela Yu's "100 Days of Code: Python Pro Bootcamp".
 - 📚 Learned: data types, type conversion, f-strings, `round()`
 - 🛠️ Built: Tip Calculator
 - ⏱️ Time: ~1.5h
+
+### Day 3 — May 4, 2026
+- ✅ Completed Day 3 of Angela Yu's course
+- 📚 Learned: if/elif/else, nested conditions, escape characters (\')
+- 🛠️ Built: Treasure Island (text adventure game)
+- ⏱️ Time: ~2h
