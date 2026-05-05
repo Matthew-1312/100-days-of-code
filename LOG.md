@@ -28,3 +28,9 @@ Following Angela Yu's "100 Days of Code: Python Pro Bootcamp".
 - 📚 Learned: if/elif/else, nested conditions, escape characters (\')
 - 🛠️ Built: Treasure Island (text adventure game)
 - ⏱️ Time: ~2h
+
+### Day 4 — May 5, 2026
+- ✅ Completed Day 4 of Angela Yu's course
+- 📚 Learned: random module, randint(), lists, list indexing, if/elif chains, input validation
+- 🛠️ Built: Rock Paper Scissors game
+- ⏱️ Time: ~2h
