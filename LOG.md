@@ -1,6 +1,6 @@
 # 100 Days of Code — Python & AI Automation
 
-![Status](https://img.shields.io/badge/Day-3%2F100-blue)
+![Status](https://img.shields.io/badge/Day-4%2F100-blue)
 
 Daily log of my journey from IT support to AI Automation specialist.  
 Following Angela Yu's "100 Days of Code: Python Pro Bootcamp".
