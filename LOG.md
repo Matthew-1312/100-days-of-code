@@ -1,6 +1,6 @@
 # 100 Days of Code — Python & AI Automation
 
-![Status](https://img.shields.io/badge/Day-4%2F100-blue)
+![Status](https://img.shields.io/badge/Day-5%2F100-blue)
 
 Daily log of my journey from IT support to AI Automation specialist.  
 Following Angela Yu's "100 Days of Code: Python Pro Bootcamp".
@@ -31,6 +31,12 @@ Following Angela Yu's "100 Days of Code: Python Pro Bootcamp".
 
 ### Day 4 — May 5, 2026
 - ✅ Completed Day 4 of Angela Yu's course
-- 📚 Learned: random module, randint(), lists, list indexing, if/elif chains, input validation
+- 📚 Learned: random module, `randint()`, lists, list indexing, if/elif chains, input validation
 - 🛠️ Built: Rock Paper Scissors game
+- ⏱️ Time: ~2h
+
+### Day 5 — May 7, 2026
+- ✅ Completed Day 5 of Angela Yu's course
+- 📚 Learned: lists, for loops with `range()`, `random.choice()`, .`append()`, `random.shuffle()`, `.join()`
+- 🛠️ Built: Password Generator (Hard Mode with shuffle)
 - ⏱️ Time: ~2h
